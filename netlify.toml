@@ -3,5 +3,5 @@
   publish = "out"
 
 [[plugins]]
-  package = "@netlify/plugin-nextjs"
+  package = "netlify-plugin-one"
   skip = true
